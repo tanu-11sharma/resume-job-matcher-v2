@@ -1,0 +1,34 @@
+[
+  {
+    "id": "j1",
+    "title": "Backend Engineer (Python)",
+    "min_years_experience": 3,
+    "min_education_level": "bachelors",
+    "required_skills": ["python", "fastapi", "postgresql", "docker"],
+    "nice_to_have_skills": ["aws", "kubernetes"]
+  },
+  {
+    "id": "j2",
+    "title": "Frontend Engineer (React)",
+    "min_years_experience": 1,
+    "min_education_level": "bachelors",
+    "required_skills": ["javascript", "react", "css"],
+    "nice_to_have_skills": ["typescript", "html"]
+  },
+  {
+    "id": "j3",
+    "title": "Machine Learning Engineer",
+    "min_years_experience": 5,
+    "min_education_level": "masters",
+    "required_skills": ["python", "machine learning", "pytorch"],
+    "nice_to_have_skills": ["kubernetes", "aws"]
+  },
+  {
+    "id": "j4",
+    "title": "Staff Engineer, Platform",
+    "min_years_experience": 8,
+    "min_education_level": "bachelors",
+    "required_skills": ["system design", "kubernetes", "aws"],
+    "nice_to_have_skills": ["java", "spring"]
+  }
+]
