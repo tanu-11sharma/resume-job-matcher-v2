@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c1",
+    "name": "Ava Chen",
+    "years_experience": 4,
+    "education_level": "bachelors",
+    "skills": ["python", "fastapi", "postgresql", "docker", "aws", "pytest"]
+  },
+  {
+    "id": "c2",
+    "name": "Marco Silva",
+    "years_experience": 1,
+    "education_level": "bachelors",
+    "skills": ["javascript", "react", "css", "html"]
+  },
+  {
+    "id": "c3",
+    "name": "Priya Nair",
+    "years_experience": 7,
+    "education_level": "masters",
+    "skills": ["python", "pytorch", "machine learning", "sql", "aws", "kubernetes"]
+  },
+  {
+    "id": "c4",
+    "name": "Jordan Lee",
+    "years_experience": 2,
+    "education_level": "bachelors",
+    "skills": ["python", "django", "postgresql", "docker"]
+  },
+  {
+    "id": "c5",
+    "name": "Sofia Rossi",
+    "years_experience": 9,
+    "education_level": "masters",
+    "skills": ["java", "spring", "kubernetes", "aws", "system design"]
+  },
+  {
+    "id": "c6",
+    "name": "Devon Brooks",
+    "years_experience": 0,
+    "education_level": "bachelors",
+    "skills": ["python", "pandas", "sql"]
+  }
+]
